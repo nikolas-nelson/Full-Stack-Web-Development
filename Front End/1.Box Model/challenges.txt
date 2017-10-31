@@ -1,0 +1,87 @@
+Open Challenge1_start.html here
+Center the element with id=”container” on the page
+Center the box within the container
+Center the <h1> within the box
+
+
+
+<!doctype html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>Box Model</title>
+		<link href='http://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
+		<style type="text/css">
+
+			#container {
+				width:450px;
+				background-color:#AA4639;
+				height: 125px;;
+			}
+
+			.boxc{
+				margin: 0;
+				padding: 0;
+				width: 150px;
+				height: 100%;
+				background-color: #81BBC9;
+				display: inline-block;
+			}
+
+			h1{
+				margin: 0;
+				font-family: Roboto;
+  			}
+
+		</style>
+	</head>
+	<body>
+		<div id="container">
+			<div class="boxc"><h1>Hola</h1></div>
+		</div>
+	</body>
+</html>
+
+
+Challenge 2
+
+Now that you have seen how block and inline-block can work, we can get cracking on some real layouts.
+
+Continuing from the last walk through code that you have written, try and replicate the following layouts:
+
+
+
+Make block- level and make the width 100%:
+
+morebox16
+
+
+
+Remove background color:
+
+morebox17
+
+
+
+Add headings and center them (text-align:center):
+
+morebox18
+
+
+
+Here is the real challenge – create the layout as shown below:
+
+morebox19
+
+Create id’s for the Sidebar and Content.
+Make them inline-block and give them a height of 320px.
+Remove all margins from .box class for the moment.
+Maths time – perform the width calculation to fit them inside the 960px container.
+Remember the margins (left and right). Because we are using inline-block for styling, we need the .container class to have font-size=0.
+The box class should have a font-size greater than 0.
+If you have managed to create the above layout, well done!
+Save your work, it will be needed again.
+
+Optional:
+
+If you want to put the sidebar a little more to the left side, as shown below, go ahead!

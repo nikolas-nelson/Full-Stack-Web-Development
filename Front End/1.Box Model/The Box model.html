@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Box Model</title>
+        <style type="text/css">
+        .box{
+    width:300px;
+    height: 300px;
+    background-color:#81BBC9;
+    margin: 50px;
+    border: 10px dashed #000;
+}
+.box2{
+        width: 200px;
+	height: 200px;
+	background-color: #247F7F;
+	border-style:double;
+        border-radius: 15%;  /*set radius for all corners*/
+	border-width: 30px;
+	border-color: #ffffff;
+}
+.box3{
+        width: 200px;
+	height: 200px;
+	background-color: #247F7F;
+	border-style:double;
+        border-top-right-radius: 15%;   /*set the top right corner radius*/
+	border-bottom-left-radius: 15%; /*set the bottom left corner radius */
+	border-width: 30px;
+	border-color: #ffffff;
+}
+.box4{
+        width: 200px;
+        height: 200px;
+        background-color: #247F7F;
+        border-radius: 15%;
+        border-style: double;
+        border-top-style: none; /* remove top border */
+        border-bottom-style: none; /*remove bottom border */
+        border-width: 30px;
+        border-color: #ffffff;
+}
+.box5{
+  width: 200px;
+	height: 200px;
+	background-color: #247F7F;
+	border-style:double;
+  border-radius: 50%; /* create a circle */
+	border-width: 30px;
+	border-color: #ffffff;
+}
+.box6{
+  width: 200px;
+	height: 200px;
+	background-color: #247F7F;
+	border-style:double;
+  border-radius: 120px/30px; /* create an elipse*/
+	border-width: 30px;
+	border-color: #ffffff;
+}
+.lemon {
+   width: 200px; height: 200px;
+
+   background: #F5F240;
+   border: 1px solid #F0D900;
+   border-radius: 10px 150px 30px 150px;
+}
+        </style>
+    </head>
+    <body>
+        <div class="box"></div>
+        <div class="box2"></div>
+        <div class="box3"></div>
+        <div class="box4"></div>
+        <div class="box5"></div>
+        <div class="box6"></div>
+        <div class="lemon"></div>
+    </body>
+</html>

@@ -6,7 +6,6 @@ Today 30.10.2017 I began Steam One - Front End Web Development.
 
 So far I've learned how to
 
-Git and Github
 1. Get setup with Git and Github
     * Installing Git
     * Signing up Github
@@ -16,3 +15,12 @@ Git and Github
     * git merge
     * Github's pull requests
 5. Creating README files
+6. The Box Model
+    * Border radius
+    * Display properties
+    * Shorthand
+7. Positioning & CSS
+    * Border box
+    * Positioning & Flow
+    * The Developer Tools
+    * The Cascade
