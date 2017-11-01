@@ -24,3 +24,18 @@ So far I've learned how to
     * Positioning & Flow
     * The Developer Tools
     * The Cascade
+8. Media
+    * Img
+    * CSS filters
+    * Video
+    * Audio
+9. Gradients, Transforms, Transitions
+    * Animation with CSS
+10. Navbar- CSS selectors
+    * Site navigation
+    * Pseudo-classes
+    * Pseudo-elements
+    * Table
+11. Flex Box
+    * Alignment
+    * Order

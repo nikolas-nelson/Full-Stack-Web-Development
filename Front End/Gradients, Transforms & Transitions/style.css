@@ -1,0 +1,50 @@
+div {
+  width: 960px;
+  height: 100px;
+  margin-top: 20px;
+  margin-bottom: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+#box1 {
+  background: -webkit-linear-gradient(left, red, orange, yellow, green, blue);
+}
+#box2 {
+  background: -webkit-linear-gradient(right, #F0C27B, #4B1248);
+}
+#box3 {
+  background: -webkit-linear-gradient(left, #5F2C82, #3498DB);
+}
+
+#box4 {
+  background: -webkit-linear-gradient(right, #FFED21 1%, #FF2A06 50%, #9412FF 100%);
+}
+
+#box5 {
+  background: -webkit-linear-gradient(right, #FFED21 1%, #FF2A06 10%, #9412FF 100%);
+}
+
+#box6 {
+  background: -webkit-linear-gradient(-45deg, black, white);
+}
+
+#box7 {
+  background: -webkit-linear-gradient(-45deg, #FFED21, #FF2A06);
+}
+
+#box8 {
+  background: -webkit-radial-gradient(#5f2c82 40%, #3498db 60%);
+}
+
+#box9 {
+  width: 500px;
+  border-radius: 10px 10px 0px 0;
+  border: solid 2px #000;
+  background: -webkit-linear-gradient(left, red , yellow , green , blue);
+  box-shadow: -10px 15px 3px #888888;
+  text-align: center;
+  font-size: 25px;
+  text-shadow: 2px 2px #888888;
+}
