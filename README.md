@@ -48,3 +48,11 @@ So far I've learned how to
     * UX
     * Users
     * Usability
+10. Wireframes
+    * Balsamiq Mockup
+11. Forms
+    * Input types
+    * Form tags
+    * Input attributes
+    * Numbers & patterns
+    * Making choices
