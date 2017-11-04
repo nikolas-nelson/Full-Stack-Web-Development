@@ -56,3 +56,12 @@ So far I've learned how to
     * Input attributes
     * Numbers & patterns
     * Making choices
+12. Bootstrap
+    * Navigation
+    * Tabs & Pulls
+    * Components
+    * Accordion panels
+    * Responsive
+        * Navbar
+        * Grid system
+    * Overriding
