@@ -2,7 +2,7 @@ Welcome to my GidHub public repository
 
 I started Full Stock Web Development Diploma with Code Institute on 20.10.2017. In first 10 days I refreshed my knowledge of html, css and JS with Steam Zero.
 
-Today 30.10.2017 I began Steam One - Front End Web Development.
+Front End Web Development.
 
 So far I've learned how to
 
